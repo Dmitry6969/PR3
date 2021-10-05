@@ -1,0 +1,10 @@
+C:\Users\DimaS\Desktop\ИСП-31\Практосы\PR3 Ермолаев\LibMatr\LibMatr\LibMatr\bin\Debug\LibMatr.dll
+C:\Users\DimaS\Desktop\ИСП-31\Практосы\PR3 Ермолаев\LibMatr\LibMatr\LibMatr\bin\Debug\LibMatr.pdb
+C:\Users\DimaS\Desktop\ИСП-31\Практосы\PR3 Ермолаев\LibMatr\LibMatr\LibMatr\obj\Debug\LibMatr.csproj.CoreCompileInputs.cache
+C:\Users\DimaS\Desktop\ИСП-31\Практосы\PR3 Ермолаев\LibMatr\LibMatr\LibMatr\obj\Debug\LibMatr.dll
+C:\Users\DimaS\Desktop\ИСП-31\Практосы\PR3 Ермолаев\LibMatr\LibMatr\LibMatr\obj\Debug\LibMatr.pdb
+C:\Users\DimaS\Desktop\ИСП-31\Практосы\PR3 Ермолаев (доделать)\LibMatr\LibMatr\LibMatr\bin\Debug\LibMatr.dll
+C:\Users\DimaS\Desktop\ИСП-31\Практосы\PR3 Ермолаев (доделать)\LibMatr\LibMatr\LibMatr\bin\Debug\LibMatr.pdb
+C:\Users\DimaS\Desktop\ИСП-31\Практосы\PR3 Ермолаев (доделать)\LibMatr\LibMatr\LibMatr\obj\Debug\LibMatr.csproj.CoreCompileInputs.cache
+C:\Users\DimaS\Desktop\ИСП-31\Практосы\PR3 Ермолаев (доделать)\LibMatr\LibMatr\LibMatr\obj\Debug\LibMatr.dll
+C:\Users\DimaS\Desktop\ИСП-31\Практосы\PR3 Ермолаев (доделать)\LibMatr\LibMatr\LibMatr\obj\Debug\LibMatr.pdb
